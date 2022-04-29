@@ -94,7 +94,7 @@
 	margin-left: 1em;
 }
 
-.story-pic {
+.story-image-container {
 	width:3em;
 	height:3em;
 
@@ -111,7 +111,7 @@
 
 }
 
-.story__text {
+.story__username {
 	font-size: 0.7em;
 	width: 100%;
 	text-align: center;
@@ -135,7 +135,7 @@
 	padding: 1rem;
 }
 
-.post-profile-pic {
+.post-header__profile-pic-container{
 	width: 2.5em;
 	max-height: 2.5em;
 
